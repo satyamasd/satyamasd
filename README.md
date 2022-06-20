@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Certifcations </h2>
+<h2> Certifcations </h2>
 - <b> Fortinet NSE 1 </b> <br> 
 - <b> ISO 27001 Lead Auditor (Ongoing) </b>
 <h2> CTF Writeups and Blogs </h2>
