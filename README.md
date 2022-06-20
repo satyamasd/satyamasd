@@ -18,7 +18,11 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Certifcations </h2>
+- <b> Fortinet NSE 1 </b> <br> 
+- <b> ISO 27001 Lead Auditor (Ongoing) </b>
+<h2> CTF Writeups and Blogs </h2>
+- <a href="https://medium.com/p/c2c1c793e128/"> DeathNote 1[Vulnhub] Walkthrough </a>
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -28,7 +32,6 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/satyamasd/
 [linkedin]: https://www.linkedin.com/in/satyam-garg-b07465188/
 
